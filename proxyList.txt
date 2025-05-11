@@ -2824,6 +2824,9 @@
 43.218.77.16,443,ID,Amazon.com
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
 36.95.152.58,12137,ID,PT Telkom Indonesia
+41.216.178.88,443,ID,Atha Media Prima
+41.216.178.88,2053,ID,CV Atha Media Prima
+41.216.178.88,10002,ID,Atha Media Prima
 40.113.60.248,2053,IE,Microsoft Azure
 40.113.60.248,8443,IE,Microsoft Azure
 34.253.234.62,443,IE,Amazon.com
