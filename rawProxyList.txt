@@ -5422,9 +5422,6 @@
 43.218.77.16,443,ID,Amazoncom
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
 172.232.237.112,2053,ID,Akamai Connected Cloud
-41.216.178.88,443,ID,Atha Media Prima
-41.216.178.88,2053,ID,CV Atha Media Prima
-41.216.178.88,10004,ID,Atha Media Prima
 40.113.60.248,2053,IE,Microsoft Azure
 52.169.27.133,2053,IE,Microsoft Azure
 38.180.21.33,443,IE,M247 Europe SRL
